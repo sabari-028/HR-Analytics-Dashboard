@@ -24,10 +24,7 @@ This GitHub repository contains a comprehensive HR analytics dashboard created u
 - [Tableau Desktop](https://www.tableau.com/products/desktop) (or Tableau Public)
 - HR data in a compatible format (CSV, Excel, or a database connection)
 
-
 ## Contributing
 If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## License
-This project is licensed under the [MIT License](LICENSE).
----
+
 Feel free to adapt and expand upon this template based on the specific features and details of your HR analytics dashboard. Include screenshots, a license file, and any relevant information that would help users understand and use your dashboard effectively.
