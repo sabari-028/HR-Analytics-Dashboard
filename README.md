@@ -25,7 +25,7 @@ This GitHub repository contains a comprehensive HR analytics dashboard created u
 - HR data in a compatible format (CSV, Excel, or a database connection)
 
 ## Screenshots
-![Dashboard Screenshot](/path/to/screenshot.png)
+![Dashboard Screenshot](C:\Users\sabar\OneDrive\Pictures\Screenshots\HR Analytics Dashboard.png)
 
 ## Contributing
 If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
